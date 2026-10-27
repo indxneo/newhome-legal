@@ -55,3 +55,11 @@ a { color: var(--coral-ink); }
 .lang { border-top: 1px solid var(--line); margin-top: 48px; padding-top: 8px; }
 footer { color: var(--ink-soft); font-size: 14px; margin-top: 48px; }
 ul { padding-left: 22px; }
+.app-icon {
+  display: block;
+  width: 128px;
+  height: 128px;
+  border-radius: 29px;
+  margin: 8px 0 16px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+}

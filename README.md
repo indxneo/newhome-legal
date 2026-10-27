@@ -1,6 +1,6 @@
-# A New Home: website
+# Soft Spot: website
 
-Public pages for the iPhone game **A New Home**, served with GitHub Pages:
+Public pages for the iPhone game **Soft Spot**, served with GitHub Pages:
 
 | Page | Link | Use in App Store Connect |
 |---|---|---|
